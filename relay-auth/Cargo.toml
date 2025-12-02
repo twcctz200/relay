@@ -12,7 +12,7 @@ build = "build.rs"
 
 [dependencies]
 chrono = "0.4.11"
-ed25519-dalek = "0.9.1"
+ed25519-dalek = "2.2.0"
 thiserror = "1.0.24"
 hmac = "0.7.1"
 rand = "0.6.5"

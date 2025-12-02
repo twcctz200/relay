@@ -17,7 +17,7 @@ dynfmt = { version = "0.1.4", features = ["python", "curly"] }
 enumset = "1.0.4"
 hmac = "0.7.1"
 itertools = "0.8.2"
-maxminddb = "0.13.0"
+maxminddb = "0.27.0"
 memmap = { version = "0.7.0", optional = true }
 minidump = "0.10.0"
 num-traits = "0.2.12"
