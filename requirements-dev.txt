@@ -21,3 +21,4 @@ sentry_sdk==1.11.0
 werkzeug==2.2.2
 sentry-relay==0.8.15
 zstandard==0.18.0
+urllib3>=2.6.3 # not directly required, pinned by Snyk to avoid a vulnerability
